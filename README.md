@@ -79,5 +79,5 @@ SOFTWARE.
 
 ## Questions
 
-Check out my [GitHub](https://mzrainy.github.io/E-Commerce/)
-Any questions regarding this project can be sent to IQ@gmail.com.
+Check out my [GitHub](https://github.com/MzRainy/The_Q-s_Tech_Blog.git).
+ Any questions regarding this project can be sent to IQ@gmail.com.
