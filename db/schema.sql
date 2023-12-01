@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS Q-s_blog_db;
+CREATE DATABASE Q-s_blog_db;
